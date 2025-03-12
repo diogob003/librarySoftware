@@ -1,0 +1,8 @@
+*
+**/*
+!img*.svg
+!img*.png
+!img*.jpg
+!img*.jpeg
+!img*.gif
+!img*.webp
